@@ -1,0 +1,2 @@
+# safe
+safelink blog
